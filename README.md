@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Cogo</h1>
 <h3 align="center">A full stack developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheuscogo&label=Profile%20views&color=0e75b6&style=flat" alt="matheuscogo" /> </p>
-
 - 🌱 I’m currently learning **Spring Framework**
 
 - 📫 How to reach me **matheuscarvalhocogo@gmail.com**
