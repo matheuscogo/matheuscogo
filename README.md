@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Cogo</h1>
 <h3 align="center">A full stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on <a href="https://www.linkedin.com/company/quaza-tecnologia/">Quaza Tecnologia</a>  <img src="https://media.licdn.com/dms/image/C4E0BAQF7e_iKhHCsEg/company-logo_200_200/0/1631541566243?e=1718236800&v=beta&t=svx8dcTouZfrxHcbkwNEuVK666Lq2mHUHaJoWs2dzKc" alt="git" width="15" height="15"/>
+- 🔭 I’m currently working on [Quaza Tecnologia](https://www.linkedin.com/company/quaza-tecnologia/)
 
 - 🌱 I’m currently learning **Rust** 🦀
 
