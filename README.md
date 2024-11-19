@@ -43,6 +43,7 @@
 [![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](#)
 [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 [![Dbeaver Badge](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)](#)
+[![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuscogo&show_icons=true&locale=en&layout=compact" alt="matheuscogo" /></p>
 
