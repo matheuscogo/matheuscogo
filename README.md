@@ -51,6 +51,3 @@
 [![Dbeaver Badge](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)](#)
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuscogo&show_icons=true&locale=en&layout=compact" alt="matheuscogo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheuscogo&show_icons=true&locale=en" alt="matheuscogo" /></p>
